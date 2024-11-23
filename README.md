@@ -1,1 +1,3 @@
-This is just some chimes and tunes for the Redot game engine. They can be used for anything.
+This is chimes and tunes for the Redot game engine. They can be used for anything. Made these in my off time, not sober, so I thibnk it's fair I release these with the WTFPL license...
+
+![download](https://github.com/user-attachments/assets/f70973c6-7ec8-4d27-8531-ea42c6a61f10)
